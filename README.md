@@ -6,12 +6,10 @@ Skrypt do importowania bazy pytań egzaminacyjnych na prawo jazdy publikowanych 
 
 Źródłem danych są pliki ze strony Ministerstwa Infrastruktury: https://www.gov.pl/web/infrastruktura/prawo-jazdy
 
-- [Baza pytań na prawo jazdy](https://www.gov.pl/documents/905843/1047987/pytania_plik_pa%C5%BAdziernik_2018.xlsx)
-- [Multimedia cz. 1](https://www.gov.pl/documents/905843/1047987/cz%C4%99%C5%9B%C4%87_1.zip)
-- [Multimedia cz. 2](https://www.gov.pl/documents/905843/1047987/cz%C4%99%C5%9B%C4%87_2.zip)
-- [Multimedia cz. 3](https://www.gov.pl/documents/905843/1047987/cze%C5%9B%C4%87_3.zip)
-- [Multimedia cz. 4](https://www.gov.pl/documents/905843/1047987/cz%C4%99%C5%9B%C4%87_4.zip)
-- [Multimedia cz. 5](https://www.gov.pl/documents/905843/1047987/cz%C4%99%C5%9B%C4%87_5.zip)
+- [Baza pytań na prawo jazdy](https://www.gov.pl/attachment/a9abfbe4-51a8-4976-8a98-3e1d5df98c57)
+- [Multimedia cz. 1](https://www.gov.pl/pliki/rozne/KLIPY-PYTANIA%202021_01%20cz.%201.zip)
+- [Multimedia cz. 2](https://www.gov.pl/pliki/rozne/KLIPY-PYTANIA%202021_01%20cz.%202.zip)
+- [Multimedia cz. 3](https://www.gov.pl/pliki/rozne/KLIPY-PYTANIA%202021_01%20cz.%203.zip)
 
 ## Release
 
